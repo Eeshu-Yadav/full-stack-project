@@ -1,0 +1,13 @@
+{
+    // "python.pythonPath": "myenv\\Scripts\\python.exe",
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}
